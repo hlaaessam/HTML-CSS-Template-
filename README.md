@@ -2,7 +2,7 @@
 
 <h1>Front End Template <h3>(PC)</h3></h1>
 
-<h2>Technologies</h2>
+<h2>Languages </h2>
       HTML <br>
       CSS  <br>
       
