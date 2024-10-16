@@ -1,4 +1,4 @@
-## [CodeCanvas](https://hlaaessam.github.io/HTML-CSS-Template-/")
+## [CodeCanvas](https://hlaaessam.github.io/HTML-CSS-Template-/)
 
 <h1>Front End Template <h3>(PC)</h3></h1>
 
